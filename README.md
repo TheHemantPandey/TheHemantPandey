@@ -4,15 +4,12 @@
 
 
 
-
-- 🔭 I’m a **FullStack Web Developer**
-
-- 🌱 New Technologies in FullStack Web Development**
-
-- 💬 Ask me about **DSA, Javascipt, Java**
-
-- 📫 How to reach me **hement.pandey2121@gmail.com**
-
+👋 Hi, I’m Hemant Pandey
+💻 Fullstack Web Developer (MERN + Next.js)
+🌐 Building scalable & responsive web applications
+🛠️ Skilled in React, Node.js, Express, MongoDB, Tailwind CSS
+🚀 Passionate about learning new tech & solving problems
+📫 Connect with me: hement.pandey2121@gmail.com
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/hemant-pandey-ase" target="_blank">
